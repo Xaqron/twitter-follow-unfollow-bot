@@ -1,0 +1,34 @@
+{
+  "name": "tfub",
+  "version": "0.1.0",
+  "description": "Automatically follow+mute - unfollow back on Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaqron/twitter-follow-unfollow-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "follow",
+    "unfollow",
+    "follow-back",
+    "mute",
+    "bot"
+  ],
+  "author": "Xaqron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xaqron/twitter-follow-unfollow-bot/issues"
+  },
+  "homepage": "https://github.com/Xaqron/twitter-follow-unfollow-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {
+    "cspell": "*",
+    "standard": "*"
+  }
+}
